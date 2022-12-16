@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Spotify](https://forked-playlist-setup-icqk-4tw8gigxg-goncalomf20.vercel.app/api/spotify)](https://open.spotify.com/user/11182891479)
+
