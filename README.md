@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Spotify](https://forked-playlist-setup-icqk-4tw8gigxg-goncalomf20.vercel.app/api/spotify)](https://open.spotify.com/user/11182891479)
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
