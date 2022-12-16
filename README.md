@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 &nbsp;<div align="center">
-  [![Spotify](https://forked-playlist-setup-icqk-4tw8gigxg-goncalomf20.vercel.app/api/spotify?background_color=ffffff&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://forked-playlist-setup-icqk-4tw8gigxg-goncalomf20.vercel.app/api/spotify?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
