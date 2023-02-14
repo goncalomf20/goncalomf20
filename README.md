@@ -1,6 +1,7 @@
+
 <a href="https://github.com/goncalomf20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuarteCruz31&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteCruz31&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalomf20&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalomf20&theme=tokyonight&layout=compact" />
 </a>
 
 <!--
@@ -18,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;<div align="center">
+&nbsp;<div>
   [![Spotify](https://forked-playlist-setup-icqk-4tw8gigxg-goncalomf20.vercel.app/api/spotify?background_color=17202A&border_color=ffffff)](https://open.spotify.com/user/11182891479)
 </div>
