@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;<div>
+&nbsp;<div align="center">
   [![Spotify](https://forked-playlist-setup-icqk-4tw8gigxg-goncalomf20.vercel.app/api/spotify?background_color=17202A&border_color=ffffff)](https://open.spotify.com/user/11182891479)
 </div>
