@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=50&repeat=false&random=false&width=435&lines=Welcome+to+my+profile!;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;The+best+error+message+is+the+one+that+never+shows+up.;It%E2%80%99s+not+a+bug+%E2%80%93+it%E2%80%99s+an+undocumented+feature.;Code+never+lies%2C+comments+sometimes+do." alt="Typing SVG" /></a>
   </a>
 </h1>
 
