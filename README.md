@@ -17,36 +17,28 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=50&repeat=false&random=false&width=435&lines=Welcome+to+my+profile!;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;The+best+error+message+is+the+one+that+never+shows+up.;It%E2%80%99s+not+a+bug+%E2%80%93+it%E2%80%99s+an+undocumented+feature.;Code+never+lies%2C+comments+sometimes+do." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;The+best+error+message+is+the+one+that+never+shows+up.;It%E2%80%99s+not+a+bug+%E2%80%93+it%E2%80%99s+an+undocumented+feature.;Code+never+lies%2C+comments+sometimes+do." alt="Typing SVG" /></a>
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/gon%C3%A7alo-ferreira-83604426b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/goncalomf20/" title="Leetcode Profile"><img width="22" src="images/hackerrank.png"> Leetcode</a></code>
+  <code><a href="https://open.spotify.com/user/11182891479" title="Spotify Profile"><img width="22" src="images/stackoverflow.svg"> Spotify</a></code>
+  <code><a href="https://www.instagram.com/goncalo_mf_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Gonçalo Ferreira, a Software Engineer from Portugal
   <br>
+  🎓 I'm currently studying Software Engineering at Universidade de Aveiro, DETI - Departamento de Electrónica, Telecomunicações e Informática
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📍 Live in Vila Real , Portugal 
   <br>
   💻 I love writing code and learn anythings about it
+  <br> 
+  📫 How to reach me: <a href="mailto: goncaloferreira07@gmail.com">goncaloferreira07@gmail.com</a>
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
 <hr>
