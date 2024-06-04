@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <code><img title="MongoDB" height="50" src="images/mongodb.svg"></code>
   <code><img title="Redis" height="25" src="images/redis.svg"></code>
   <code><img title="RabbitMQ" height="50" src="images/rabbitmq.svg"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JQuery" height="50" src="images/jquery.svg"></code>
   <code><img title="Java" height="25" src="images/java.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Airtable" height="25" src="images/airtable.svg"></code>
