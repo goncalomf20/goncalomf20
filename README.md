@@ -60,16 +60,16 @@ Here are some ideas to get you started:
   <code><img title="Redis" height="25" src="images/redis.svg"></code>
   <code><img title="RabbitMQ" height="50" src="images/rabbitmq.svg"></code>
   <code><img title="JQuery" height="50" src="images/jquery.svg"></code>
-  <code><img title="Java" height="25" src="images/java.svg"></code>
+  <code><img title="Java" height="50" src="images/java.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Airtable" height="25" src="images/airtable.svg"></code>
   <code><img title="Jira" height="25" src="images/jira.svg"></code>
   <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="FastAPI" height="25" src="images/fastapi.png"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="C" height="25" src="images/c.png"></code>
+  <code><img title="C++" height="25" src="images/cpp.png"></code>
+  <code><img title="C#" height="25" src="images/cpluse.svg"></code>
 </p>
 <hr>
 
