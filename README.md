@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p align="center">
 
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.svg"></code>
+  <code><img title="Django" height="50" src="images/django.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -55,16 +55,16 @@ Here are some ideas to get you started:
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angular.svg"></code>
   <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="Springboot" height="25" src="images/spring.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+  <code><img title="Springboot" height="50" src="images/spring.svg"></code>
+  <code><img title="MongoDB" height="50" src="images/mongodb.svg"></code>
   <code><img title="Redis" height="25" src="images/redis.svg"></code>
-  <code><img title="RabbitMQ" height="25" src="images/rabbitmq.svg"></code>
+  <code><img title="RabbitMQ" height="50" src="images/rabbitmq.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Airtable" height="25" src="images/airtable.svg"></code>
   <code><img title="Jira" height="25" src="images/jira.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="FastAPI" height="25" src="images/fastapi.png"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
