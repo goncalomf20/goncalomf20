@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=goncalomf20.goncalomf20">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;The+best+error+message+is+the+one+that+never+shows+up.;It%E2%80%99s+not+a+bug+%E2%80%93+it%E2%80%99s+an+undocumented+feature.;Code+never+lies%2C+comments+sometimes+do." alt="Typing SVG" /></a>
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&multiline=true&random=false&width=435&lines=Welcome+to+my+profile!;Be+you%2C+you+will+be+fine+%3A)" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
