@@ -66,10 +66,10 @@ Here are some ideas to get you started:
   <code><img title="Jira" height="25" src="images/jira.svg"></code>
   <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="FastAPI" height="25" src="images/fastapi.png"></code>
+  <code><img title="FastAPI" height="25" src="images/fastapi.svg"></code>
   <code><img title="C" height="25" src="images/c.png"></code>
   <code><img title="C++" height="25" src="images/cpp.png"></code>
-  <code><img title="C#" height="25" src="images/cpluse.svg"></code>
+  <code><img title="C#" height="25" src="images/cpluse.png"></code>
 </p>
 <hr>
 
