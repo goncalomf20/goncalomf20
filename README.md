@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalomf20&theme=default&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalomf20&theme=default&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 
 <hr>
