@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/gon%C3%A7alo-ferreira-83604426b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/goncalomf20/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
+  <code><a href="https://leetcode.com/u/goncalomf20/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
   <code><a href="https://open.spotify.com/user/11182891479" title="Spotify Profile"><img width="22" src="images/spotify.svg"> Spotify</a></code>
   <code><a href="https://www.instagram.com/goncalo_mf_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
