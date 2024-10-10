@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
   Hi, I'm Gonçalo Ferreira, a Software Engineer from Portugal
   <br>
-  🎓 I'm currently studying Software Engineering at Universidade de Aveiro, DETI - Departamento de Electrónica, Telecomunicações e Informática
+  🎓 I'm currently studying CyberSecurity at Universidade de Aveiro, DETI - Departamento de Electrónica, Telecomunicações e Informática
   <br>
   📍 Live in Vila Real , Portugal 
   <br>
